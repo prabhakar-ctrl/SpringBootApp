@@ -15,6 +15,6 @@ public class SpringBootAwsExampleApplication {
 
 	@GetMapping("/msg")
 	public String getMessage() {
-		return "Welcome to AWS.....";
+		return "Welcome to AWS........";
 	}
 }
